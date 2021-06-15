@@ -12,7 +12,7 @@ for users to check if they want similer type of pets.
 | Tiger         | Malayan       | Orange fur with black stripes| 3 years    |
 
 
-![Germa Sheperd Image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fbaiuland.it%2Fhow-not-total-black-german-shepherd-pups-can-born-from-two-total-black-parents%2F&psig=AOvVaw3arFTSa8wYH7zOY7UKzmpB&ust=1623833644856000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMCOy-6hmfECFQAAAAAdAAAAABAI)
+
 
 ## Setup/Installation Requirements
 * This project is done using Visual studio
